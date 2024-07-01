@@ -28,10 +28,7 @@ Hi, I'm Chanchal Bawara, a passionate Computer Science and Engineering student w
 - **Libraries:** Standard Template Library (C++), React (Basic)
 
 - **Computer Science Fundamentals:** Object-Oriented Programming, Database Management System, Operating
-System, Software Engineering, Computer Network, Cloud Computing
-
-• Experience working in Unix/Linux environments.
-• Experience with Data Structures, Algorithms, and software design , SDLC (Software Development Life Cycle).
+System, Software Engineering,SDLC (Software Development Life Cycle), Computer Network, Cloud Computing .
 ---
 
 ## 📊 GitHub Statistics
