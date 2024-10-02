@@ -22,6 +22,7 @@ Hi, I'm Chanchal Bawara, a passionate Computer Science and Engineering student w
 - **Database Management:** MySQL, MongoDB , PostgreSQL
 - **Tools & Software:** Unix/Linux, VS Code, GitHub, Git Bash ,MS Office Suite, Canva, Figma (UI/UX)
 
+
  
 
 
